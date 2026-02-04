@@ -3,6 +3,7 @@
 This project is a simple **responsive Login and Signup page** built using **HTML and CSS**.  
 It is designed so that I will understand the form layouts, styling, and basic page structure.
 
+site is live at :  https://vamsi-madabathula.github.io/LogIn-page/
 ---
 
 ## ✨ Features
@@ -54,6 +55,8 @@ Login Page
 Signup Page
 ![Login Page](images/sign-up-image.png)
 
+
+
 🎯 Learning Outcomes
 Creating forms using HTML
 
@@ -65,6 +68,7 @@ Using CSS Grid for layout
 
 Building a basic multi-page project
 
+
 📌 Future Improvements
 Form validation using JavaScript
 
@@ -72,7 +76,12 @@ Show/Hide password feature
 
 Backend integration
 
-Improved responsiveness
+User Entered data is stored on database.
+
+Check's the Enter password and Existing password.
+
+After login to the site is opening.
+
 
 👨‍💻 Author
 Vamsi Madabathula
@@ -84,22 +93,6 @@ GitHub: Vamsi-Madabathula
 
 ---
 
-## ✅ How to add this README to GitHub
-
-1️⃣ Create a file:
-```bash
-README.md
-2️⃣ Paste the content
-3️⃣ Save
-4️⃣ Push:
-
-git add README.md
-git commit -m "Added README file"
-git push
 
 
 
-#In Future 
-1. User Entered data is stored on database.
-2. Check's the Enter password and Existing password.
-3. After login to the site is opening.
