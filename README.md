@@ -47,9 +47,7 @@ Open index.html in your browser.
 
 📸 Screenshots
 Login Page
-
-
-
+![Login Page](images/logIn-image.png)
 
 
 
