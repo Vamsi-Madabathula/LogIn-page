@@ -52,7 +52,7 @@ Login Page
 
 
 Signup Page
-(Add screenshot here if you want)
+![Login Page](images/sign-up-image.png)
 
 🎯 Learning Outcomes
 Creating forms using HTML
