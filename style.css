@@ -40,3 +40,20 @@ body{
     justify-content: center;
     align-items: center;
 }
+.pwd-container{
+    width:346px;
+    position: relative;
+   
+}
+.pwd-container input{
+    width: 100%;
+    padding-right: 60px;
+    box-sizing: border-box;
+}
+.pwd-container button{
+    position: absolute;
+    right: 5px;
+    height: 31px;
+    background: transparent;
+    border: none;
+}
